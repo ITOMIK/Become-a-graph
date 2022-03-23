@@ -36,7 +36,7 @@ public class Hero : MonoBehaviour
 
        if(isGrounded) State = States.run;
 
-       Debug.Log(String.Format("{0} {1}",sprite.flipX,dir.x));
+       //Debug.Log(String.Format("{0} {1}",sprite.flipX,dir.x));
     
     }
      
