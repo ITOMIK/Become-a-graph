@@ -3,3 +3,8 @@
 
 ***
 School project: 2D Game on Unity with random generation of environment. 
+***
+
+![image](https://github.com/ITOMIK/Become-a-graph/assets/49075130/da1cc7f2-5ca6-4c3e-bd7c-b7c4c2554ab7)
+
+![image](https://github.com/ITOMIK/Become-a-graph/assets/49075130/98e37501-5ef8-44a9-94e5-8916a5082f1d)
